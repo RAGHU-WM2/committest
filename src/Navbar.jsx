@@ -9,7 +9,7 @@ export const Navbar = () => {
     <li>3</li>
     <li>4</li>
     <li>5</li>
-
+<h1>LOGIN</h1>
     </ul>
     
     </div>
